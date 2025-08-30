@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872044410878",
+    "project_id": "daily-expanses-2b007",
+    "storage_bucket": "daily-expanses-2b007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872044410878:android:321a21dac3051f4cac72af",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvZwvA3QsPxrLmhI9YqntHyyeQ3dlzzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
